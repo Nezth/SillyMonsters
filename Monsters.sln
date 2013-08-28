@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monsters", "Monsters\Monsters.csproj", "{7D8A02AA-847E-4DF1-8D3A-63E64B304FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8A02AA-847E-4DF1-8D3A-63E64B304FB7}.Debug|x86.ActiveCfg = Debug|x86
+		{7D8A02AA-847E-4DF1-8D3A-63E64B304FB7}.Debug|x86.Build.0 = Debug|x86
+		{7D8A02AA-847E-4DF1-8D3A-63E64B304FB7}.Release|x86.ActiveCfg = Release|x86
+		{7D8A02AA-847E-4DF1-8D3A-63E64B304FB7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Monsters\Monsters.csproj
+	EndGlobalSection
+EndGlobal
